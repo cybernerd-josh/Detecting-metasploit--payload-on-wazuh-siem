@@ -94,27 +94,36 @@ agent.name: "DESKTOP-SI9234F" and data.win.system.eventID: 1
 
  ## Lessons Learned
  
--Process migration requires sufficient privileges.
--Registry Run keys are simple but highly detectable with Sysmon.
--Relying only on the Alerts index can cause you to miss important activity — always check Archives during investigations.
--Creating custom Wazuh rules is an important next step for better detection.
+###1. Process migration requires sufficient privileges.
+
+###2. Registry Run keys are simple but highly detectable with Sysmon.
+
+###3. Relying only on the Alerts index can cause you to miss important activity — always check Archives during investigations.
+
+###4. Creating custom Wazuh rules is an important next step for better detection.
 
 
 ## Future Improvements
 
--Write custom Wazuh rules for Meterpreter and Registry persistence
--Test additional persistence techniques (Scheduled Task, Services, WMI)
--Attempt privilege escalation and detect it
--Compare detection with Windows Defender enabled vs disabled
+###1. Write custom Wazuh rules for Meterpreter and Registry persistence
+
+###2. Test additional persistence techniques (Scheduled Task, Services, WMI)
+
+###3. Attempt privilege escalation and detect it
+
+###4. Compare detection with Windows Defender enabled vs disabled
 
 
 
 ## Screenshots
 
--Meterpreter session
--Registry persistence
--Sysmon Event ID 1, 3, 12/13
--Wazuh Discover views (Archives)
+###1. Meterpreter session
+
+###2. Registry persistence
+
+###3. Sysmon Event ID 1, 3, 12/13
+
+###4. Wazuh Discover views (Archives)
 
 
 ## Disclaimer
