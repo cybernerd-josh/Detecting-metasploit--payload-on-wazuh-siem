@@ -128,6 +128,3 @@ agent.name: "DESKTOP-SI9234F" and data.win.system.eventID: 1
 
 ## Disclaimer
 This project was conducted in a controlled home lab environment for educational purposes only. All attacks were performed against systems I own.
-
-| Registry Persistence | 12 / 13 (Registry) | Yes |
-| Process Migration Attempt | 8 (CreateRemoteThread) | Partial |
