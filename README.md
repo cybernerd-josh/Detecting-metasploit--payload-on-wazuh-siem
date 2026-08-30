@@ -117,11 +117,15 @@ agent.name: "DESKTOP-SI9234F" and data.win.system.eventID: 1
 
 ![Meterpreter session](images/meterpreter.png)
 
-![Registry persistence](images/registry persistence.png)
+![Registry persistence](images/registry-persistence.png)
 
-###3. Sysmon Event ID 1, 3, 13
+![Sysmon Event ID 1](images/sysmon-event-id1.png)
 
-###4. Wazuh Discover views (Archives)
+![Sysmon Event ID 3](images/sysmon-event-id3.png)
+
+![Sysmon Event ID 13](images/sysmon-event-id13.png)
+
+![Wazuh Discover views (Archives)](images/wazuh-discover-archives)
 
 
 ## Disclaimer
