@@ -117,7 +117,7 @@ agent.name: "DESKTOP-SI9234F" and data.win.system.eventID: 1
 
 ![Meterpreter session](images/meterpreter.png)
 
-![Registry persistence](images/registry-persistence.png)
+![Registry persistence](images/registry persistence.png)
 
 ###3. Sysmon Event ID 1, 3, 13
 
