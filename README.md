@@ -130,3 +130,12 @@ agent.name: "DESKTOP-SI9234F" and data.win.system.eventID: 1
 
 ## Disclaimer
 This project was conducted in a controlled home lab environment for educational purposes only. All attacks were performed against systems I own.
+
+
+## Author
+
+**Alli Olamide Joshua**  
+Aspiring SOC Analyst  
+
+- GitHub: [Cybernerd-josh](https://github.com/Cybernerd-josh)  
+- LinkedIn: [LinkedIn](www.linkedin.com/in/alli-olamide-61359b383)
