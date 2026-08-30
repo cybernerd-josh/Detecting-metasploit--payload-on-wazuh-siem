@@ -115,7 +115,7 @@ agent.name: "DESKTOP-SI9234F" and data.win.system.eventID: 1
 
 ## Screenshots
 
-###1.! [Meterpreter session] (Detecting-metasploit--payload-on-wazuh-siem/meterpreter.png)
+###1.! [Meterpreter session] (images/meterpreter.png)
 
 ###2. Registry persistence
 
