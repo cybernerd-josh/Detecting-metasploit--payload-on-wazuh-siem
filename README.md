@@ -66,7 +66,7 @@ The attack was successfully logged and visible in Wazuh (mainly in the Archives 
 |-----------------------------|------------------------------|-------------------|
 | Payload Execution           | 1 (Process Create)           | Yes |
 | Network Connection to Kali  | 3 (Network Connect)          | Yes |
-| Registry Persistence        | 12 / 13 (Registry)           | Yes |
+| Registry Persistence        |  13 (Registry)               | Yes |
 
 Wazuh-Filters
 ```
@@ -75,8 +75,6 @@ data.win.eventdata.image: *cmdd.exe*
 agent.name: "DESKTOP-SI9234F" and data.win.system.eventID: 11
 
 agent.name: "DESKTOP-SI9234F" and data.win.system.eventID:13
-
-agent.name: "DESKTOP-SI9234F" and data.win.system.eventID: 12
 
 agent.name: "DESKTOP-SI9234F" and data.win.system.eventID: 3
 
@@ -121,7 +119,7 @@ agent.name: "DESKTOP-SI9234F" and data.win.system.eventID: 1
 
 ###2. Registry persistence
 
-###3. Sysmon Event ID 1, 3, 12/13
+###3. Sysmon Event ID 1, 3, 13
 
 ###4. Wazuh Discover views (Archives)
 
