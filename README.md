@@ -16,7 +16,7 @@ The goal was to practice both **red team** techniques and **blue team** detectio
 | Component | Details |
 |------------------------|------------------------------------------|
 | **SIEM** | Wazuh Manager on Contabo VPS |
-| **Endpoint** | Windows 10/11 with Wazuh Agent + Sysmon |
+| **Endpoint** | Windows 10 pro with Wazuh Agent + Sysmon |
 | **Attacker Machine** | Kali Linux (VirtualBox) |
 | **Payload** | `windows/x64/meterpreter/reverse_https` |
 | **Persistence** | Registry Run Key (`HKCU\...\Run`) |
